@@ -1,1 +1,1 @@
-# TSF-GRIP-internship
+# TSF-GRIP-data-science-internship

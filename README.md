@@ -8,4 +8,4 @@ Note: Submission link will be updated to soon.
 
 **Can reach me at**   
 
-[![Linkedin: BijayAdhikari](https://img.shields.io/badge/-Bijay Adhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BijayAdhikari/)](https://www.linkedin.com/in/bijayadhikari/)
+[![Linkedin: BijayAdhikari](https://img.shields.io/badge/-BijayAdhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BijayAdhikari/)](https://www.linkedin.com/in/bijayadhikari/)
